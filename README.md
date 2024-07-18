@@ -73,9 +73,10 @@ System.out.println(response);
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
+## Precautions
+- For security reasons, it is recommended that API keys not be hard-coded in the code, but managed in environment variables, etc.
+- Please note that fees may be charged for the use of the API, so please pay attention to the usage fees.
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
