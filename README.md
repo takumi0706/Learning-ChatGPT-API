@@ -21,7 +21,7 @@ This project demonstrates how to integrate the OpenAI ChatGPT API into a Java ap
 To use this project, you need to have Java installed on your system. Clone the repository and import it into your preferred Java IDE.
 
 ```
-git clone https://github.com/yourusername/chatgpt-java-integration.git
+git clone https://github.com/takumi0706/Learning-ChatGPT-API.git
 ```
 
 ## Usage
